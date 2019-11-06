@@ -82,15 +82,13 @@ public class AdvancedElectronics {
 	
 	/**
 	 * To add:
-	 * New tools to help the player have a better beginning of the game (Done !)
-	 * New ores, (probably different metals or non-metals (To do)
-	 * New redstone machines (To Do)
-	 * New energy system (probably a redstone liquid) (To Do)
-	 * New power machines (To Do)
-	 * New energy tools (To Do)
-	 * New energy armor (To Do)
-	 * Possibly a book with all the mod contents (To Do)
-	 * --------------------------------------------------------- Soon when i get more ideas
+	 * New tools to help the player have a better beginning of the game
+	 * New ores,
+	 * New redstone machines
+	 * New energy system
+	 * New power machines
+	 * New energy tools
+	 * New energy armor
 	 */
 	
 	
